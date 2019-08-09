@@ -1,0 +1,8 @@
+export const ADD_MESSAGE  = "ADD_MESSAGE"
+export const MESSAGE_RECIEVED  = "MESSAGE_RECIEVED"
+export const ADD_USER  = "ADD_USER"
+export const CURRENT_USER_NAME = "CURRENT_USER_NAME"
+export const USERS_LIST  = "USERS_LIST"
+export const SENDER_ID = "SENDER_ID"
+export const SELECTED_USER_ID = "SELECTED_USER_ID"
+export const NOTIFICATION = "NOTIFICATION"
