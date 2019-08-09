@@ -3,7 +3,7 @@ Chatty is a chat application built using nodejs and reactjs. It uses chance.js a
 
 # Run Server
 cd server
-node server.js
+node app.js
 
 # npm install
 To install all node modules
